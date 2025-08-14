@@ -18,6 +18,9 @@ li{
   margin-top: 70px;
 }
 
+.table{
+  font-size: 14px;
+}
 .navbar-brand{
     display: block;
     width: 50%;
@@ -80,7 +83,7 @@ li{
 /* The typing effect */
 @keyframes typing {
   from { width: 35% }
-  to { width: 63% }
+  to { width: 75% }
 }
 
 
